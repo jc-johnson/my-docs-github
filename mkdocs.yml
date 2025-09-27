@@ -6,8 +6,6 @@ nav:
     - Merge Branches with Tortoise Git: git/merge-branches-tortoise-git.md
     - Generate and Use SSH Keys with TortoiseGit: git/create-ssh-keys-tortoise-git.md
     - Resolve Merge Conflicts with TortoiseGit: git/merge-conflicts-tortoise-git.md
-  - About:
-    - License: license.md
 theme: readthedocs
 site_url: ""
 use_directory_urls: false
